@@ -1,0 +1,41 @@
+
+
+.submenu {
+   display: none;
+    width: auto;
+    position: absolute;
+    top: 57px;
+    left: auto;
+    background-color: #17171B;
+    font-size: 18px;
+    padding-top:20px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 2px;
+    height: auto;
+    border-radius: 8px;
+    align-content: center;
+    
+}
+.jobs{
+    padding-bottom: 20px;
+}
+.submenu a {
+    color: rgba(255, 255, 255, 0.6); 
+    text-decoration: none; 
+}
+.submenu a:hover{
+    color: rgb(221, 221,221)
+}
+.learn-p{
+    
+    padding-bottom:25px;
+    font-family:"GopherText1";
+      
+}
+
+.menu:hover .submenu {
+    display: block;
+    
+}
+
